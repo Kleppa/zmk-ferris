@@ -59,7 +59,7 @@
             &kp ESC     &kp PERCENT  &kp LPAR  &kp LBRC   &kp LBKT         &kp LARW   &kp DARW   &kp UARW   &kp RARW   &kp SEMI
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│ >        │  $      │  )       │  }       │     ]     │   │          │          │          │          │          │
-           &kp GT     &kp DOLLAR &kp RPAR     &kp RBRC   &kp RBKT         &trans     &trans     &trans     &trans     &trans
+           &kp COLON     &kp DOLLAR &kp RPAR     &kp RBRC   &kp RBKT         &trans     &trans     &trans     &trans     &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &kp ESC        &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
